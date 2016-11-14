@@ -61,7 +61,7 @@ class RNNLM(object):
     # Model structure; these need to be fixed for a given model.
     self.V = V
     self.H = H
-    self.num_layers = 1
+    self.num_layers = num_layers
 
     # Training hyperparameters; these can be changed with feed_dict,
     # and you may want to do so during training.
