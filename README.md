@@ -19,3 +19,9 @@ course materials.
 
 ### [Week 8: Part-of-Speech Tagging II](week8/)
 
+### Week 9: Parsing I
+
+### Week 10: Parsing II
+
+### [Week 11: Entities](week11/)
+
